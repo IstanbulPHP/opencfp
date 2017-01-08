@@ -1,0 +1,67 @@
+a {
+    color: #574673;
+}
+
+a:hover {
+    color: #C7C7C7;
+}
+
+.header {
+    background: #574673;
+    color: #FFF;
+    padding: 6rem 0;
+}
+
+.section--primary {
+    background: #574673;
+    color: #FFF;
+}
+
+.btn-opencfp--primary {
+    background: #FFF;
+    color: #574673;
+}
+
+.btn-opencfp--primary:hover {
+    background: #F7F7F7;
+    color: #C7C7C7;
+}
+
+.btn-opencfp--outlined {
+    background: transparent;
+    border-color: #FFF;
+    color: #FFF;
+}
+
+.btn-opencfp--outlined:hover {
+    background: #FFF;
+    color: #574673;
+}
+
+.module__header {
+    background: #574673;
+    color: #FFF;
+    padding: 1rem 2rem;
+}
+
+.navbar-opencfp .navbar-nav > li > a:hover,
+.navbar-opencfp .navbar-nav > .active > a,
+.navbar-opencfp .navbar-nav > .active > a:hover,
+.navbar-opencfp .navbar-nav > .active > a:focus,
+.navbar-opencfp .navbar-nav .dropdown-menu>li>a:hover,
+.navbar-opencfp .navbar-nav .dropdown-menu>li>a:focus,
+.navbar-opencfp .nav .open>a,
+.navbar-opencfp .nav .open>a:hover,
+.navbar-opencfp .nav .open>a:focus
+{
+    background: none;
+    border-color: #C7C7C7;
+}
+
+.event-logo {
+    width:250px;
+}
+
+.phpkonf-logo {
+    padding: 10px 0px 1px 10px;
+}
